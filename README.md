@@ -27,12 +27,6 @@ Each dashboard is based on real-world or open-source datasets, showcasing data v
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Screenshots can be added in each project folder or directly here)*
-
----
-
 ## 🎯 Goals
 
 - Improve dashboard design and data storytelling  
